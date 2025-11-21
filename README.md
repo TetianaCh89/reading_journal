@@ -45,6 +45,13 @@ Backend: Java 17, Spring Boot, Spring Security, Spring Data REST, Spring Data JP
 Frontend: React, TypeScript, Vite
 External API: Google Books API
 
+## Screenshots
+
+(Add screenshots here)
+![This screenshot shows the main dashboard displaying all reading entries. 
+The table includes book titles, reading status, rating, personal opinion, and reading dates. 
+Users can update any field directly within the table for a smooth and efficient workflow.]  
+
 ## Project Structure
 ```Backend (Spring Boot + Gradle)
 backend/
@@ -164,7 +171,3 @@ npm start
 Create .env:
 
 VITE_API_URL=http://localhost:8080
-
-## Screenshots
-
-(Add screenshots here)
